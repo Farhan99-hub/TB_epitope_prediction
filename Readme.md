@@ -57,4 +57,10 @@ Each model was evaluated using:
 ---
 
 ## 🚀 Getting Started
+https://github.com/Farhan99-hub/TB_epitope_prediction.git
+To set up this project locally:
 
+```bash
+# Clone the repository
+git clone https://github.com/yourusername/epitope-prediction.git
+pip install -r requirements.txt
