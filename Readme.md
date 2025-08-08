@@ -1,10 +1,10 @@
-# 🧬 Epitope Prediction using Machine Learning
+#  Epitope Prediction using Machine Learning
 
 This repository contains a machine learning pipeline to predict **B-cell** and **T-cell epitopes** from peptide sequences, focused on _Mycobacterium tuberculosis_. The project leverages features derived from biochemical properties, amino acid composition, and embeddings from ESM2 (Evolutionary Scale Modeling).
 
 ---
 
-## 📂 Data Collection
+## Data Collection
 
 - **Source**: [IEDB - Immune Epitope Database](https://www.iedb.org/)
 - **B-cell Epitope Dataset**: Downloaded from linear B-cell assay section.
@@ -16,14 +16,14 @@ This repository contains a machine learning pipeline to predict **B-cell** and *
 
 ---
 
-## 🛠️ Features Used
+## Features Used
 
 - Peptide biochemical properties (e.g., length, molecular weight, charge, pI, etc.)
 - Amino acid frequency and sequence-level descriptors.
 
 ---
 
-## 🤖 Models
+## Models
 
 - **Random Forest Classifier**
   - Used for both B-cell and T-cell predictions.
